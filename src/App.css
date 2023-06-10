@@ -1,0 +1,11 @@
+.dropdown-container{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 100vh;
+}
+.gradientText{
+    background: linear-gradient(to right,rgb(15, 129, 147),rgb(10, 147, 108));
+    background-clip: text;
+    color: transparent;
+}

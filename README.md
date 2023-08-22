@@ -2,6 +2,11 @@
 
 This component is designed to provide a flexible and reusable dropdown solution for your application. By utilizing this component, you can easily incorporate dropdown functionality into various parts of your application's user interface.
 
+Live at: https://deciever002.github.io/DropdownComponent/
+
+<img width="835" alt="image" src="https://github.com/deciever002/DropdownComponent/assets/112121338/5f3e40aa-219a-4a7e-81e8-591eb3059d0e">
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
